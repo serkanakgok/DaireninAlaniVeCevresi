@@ -9,7 +9,7 @@ public class DaireDilimi {
         System.out.print("Dairenin yarıçapını giriniz: ");
         r = data.nextInt();
 
-        System.out.print("Dairenin mrekez açısını giriniz: ");
+        System.out.print("Dairenin merkez açısını giriniz: ");
         a = data.nextInt();
 
         double alan = (pi*(r*r)*a)/360;
